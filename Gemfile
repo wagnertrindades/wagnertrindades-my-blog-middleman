@@ -12,6 +12,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 gem 'middleman', '~> 4.1'
 gem 'middleman-blog', '~> 4.0'
 gem 'middleman-syntax', '~> 2.1'
+gem 'middleman-deploy', '~> 1.0'
 # gem 'middleman-livereload', '~> 3.4'
 
 # For feed.xml.builder/sitemap.xml.builder
